@@ -1,0 +1,1 @@
+SELECT * FROM car_sales.regional_sales;
